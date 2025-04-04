@@ -57,8 +57,6 @@ Before outputing the detected frequency, a consistency check is performed, meani
 These operations keep going forever until the page is closed.
 While in game the note will be displayed on the top left corner, both in pitch and frequency.
 
-<img src="./pitch_top.png"/>
-
 Additionally, a visual feedback is displayed on the left part of the screen depending on the reference note inside the obstacle.
 There are three cases:
 Instead, when the pitch is correct, nothing is displayed.
