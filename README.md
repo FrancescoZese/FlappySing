@@ -27,10 +27,8 @@ You can choose between two different modes: Song and Random.
 
 
 when in Song mode you can choose from different existing songs and sing along. 
-<img src="./Songmode.PNG"/>
 
 In Random mode you'll have different choices, choose beetween: Easy, Normal, Hard, Speed freak and Perfect pitch. 
-<img src="./Randommode.PNG"/>
 
 The Random mode isn't completely randomic: you'll have to face a different set of musical intervals depending on the difficulty. 
 
@@ -46,8 +44,6 @@ Normal Mode: unison, maj/min 2nd and 3rd, perfect 4th and 5th, octave, maj 6th a
 Hard Mode:  unison, maj/min 2nd and 3rd, perfect 4th and 5th, octave, maj/min 6th and 7th, tritone.
 
 # OPTIONS
-
-<img src="./Options.jpg"/>
 
 Here are two additional options in case you want to modify your gaming experience.
 Guided Start plays a pure tone at the beginning of the song in order to have a reference pitch. This option is selected by default.
@@ -65,11 +61,6 @@ While in game the note will be displayed on the top left corner, both in pitch a
 
 Additionally, a visual feedback is displayed on the left part of the screen depending on the reference note inside the obstacle.
 There are three cases:
-
-<img src="./too_high.png"/>
-<img src="./too_low.png"/>
-<img src="./not_rec.png"/>
-
 Instead, when the pitch is correct, nothing is displayed.
  
 # PITCH DETECTION
